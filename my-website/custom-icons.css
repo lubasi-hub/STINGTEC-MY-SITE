@@ -1,0 +1,240 @@
+/* Custom SVG Icons for Organizations */
+
+.zra-icon {
+    width: 70px;
+    height: 70px;
+    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.zra-icon::before {
+    content: "ZRA";
+    position: absolute;
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+}
+
+.napsa-icon {
+    width: 70px;
+    height: 70px;
+    background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.napsa-icon::before {
+    content: "NAPSA";
+    position: absolute;
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+}
+
+.nhima-icon {
+    width: 70px;
+    height: 70px;
+    background: linear-gradient(135deg, #00a651 0%, #0088cc 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.nhima-icon::before {
+    content: "NHIMA";
+    position: absolute;
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+}
+
+.workers-icon {
+    width: 70px;
+    height: 70px;
+    background: linear-gradient(135deg, #ff4444 0%, #cc0000 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.workers-icon::before {
+    content: "WORKERS";
+    position: absolute;
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+    top: 20%;
+}
+
+.workers-icon::after {
+    content: "COMP";
+    position: absolute;
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+    bottom: 20%;
+}
+
+.zppa-icon {
+    width: 70px;
+    height: 70px;
+    background: linear-gradient(135deg, #6a0dad 0%, #4b0082 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.zppa-icon::before {
+    content: "ZPPA";
+    position: absolute;
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+}
+
+.ceec-icon {
+    width: 70px;
+    height: 70px;
+    background: linear-gradient(135deg, #228b22 0%, #32cd32 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.ceec-icon::before {
+    content: "CEEC";
+    position: absolute;
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+}
+
+.eiz-icon {
+    width: 70px;
+    height: 70px;
+    background: linear-gradient(135deg, #006400 0%, #228b22 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.eiz-icon::before {
+    content: "EIZ";
+    position: absolute;
+    font-family: Arial, sans-serif;
+    letter-spacing: 2px;
+}
+
+.ncc-icon {
+    width: 70px;
+    height: 70px;
+    background: linear-gradient(135deg, #ff8c00 0%, #ff6347 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.ncc-icon::before {
+    content: "NCC";
+    position: absolute;
+    font-family: Arial, sans-serif;
+    letter-spacing: 2px;
+}
+
+.warma-icon {
+    width: 70px;
+    height: 70px;
+    background: linear-gradient(135deg, #006994 0%, #00bfff 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.warma-icon::before {
+    content: "WARMA";
+    position: absolute;
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+}
+
+.zema-icon {
+    width: 70px;
+    height: 70px;
+    background: linear-gradient(135deg, #2e8b57 0%, #3cb371 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.zema-icon::before {
+    content: "ZEMA";
+    position: absolute;
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+}
